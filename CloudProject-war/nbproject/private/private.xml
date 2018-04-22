@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/registerUpcomingEvent.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/registerOrganizationServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/loginOrganizationServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/index.html</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/logoutAttendeeServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/loginUser.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/adminHome.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/loginUserServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/editEventByOrganizationServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/UpdateStatusByAdminServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/registerUserServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/userServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/editEventDetailsByOrganization.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/DeleteEventByAdminServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/editOrganizationProfile.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/loginOrganization.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/editAttendeeProfile.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/organizationHome.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/createEventServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/createEvent.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/attendeeHome.jsp</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/src/java/servlet/editOrganizationProfileServlet.java</file>
+            <file>file:/C:/Users/shaurya/Desktop/CloudProject/CloudProject-war/web/index(2).html</file>
+        </group>
+    </open-files>
+</project-private>
